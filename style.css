@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+.points{
+    position: absolute;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4px;
+}
+
+.points p {
+    margin: 4px;
+    font-size: 18px;
+}
